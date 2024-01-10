@@ -42,6 +42,7 @@ Since then, I have been proficient in many technologies:
 ### Mobile
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%23708582.svg?style=for-the-badge&logo=kotlin&logoColor=purple)
 
 
 ### Databases
