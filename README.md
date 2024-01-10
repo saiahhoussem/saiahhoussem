@@ -46,7 +46,7 @@ Since then, I have been proficient in many technologies:
 
 ### Databases
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![Postgres](https://img.shields.io/badge/mongodb-%23316142.svg?style=for-the-badge&logo=mongodb&logoColor=green)
 
 ### DevOps & Other
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
